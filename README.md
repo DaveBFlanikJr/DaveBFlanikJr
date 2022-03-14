@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="DavidBFlanikJr's GitHub Stats" src="https://github-readme-stats-DavidBFlanikJr.vercel.app/api?username=DavidBFlanikJr&show_icons=true&hide_border=true" />
+  <img align="left" alt=[![Davids's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidBFlanikJr)](https://github.com/david/github-readme-stats) />
 </details>
 
 [instagram]: https://www.instagram.com/daveflanik
