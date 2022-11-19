@@ -2,9 +2,9 @@
 
 ## About me:
 - 💻 Working with **Ruby on Rails** and **Python(flask)** on the back end, **HTML**, **CSS**, and **JS** on the front end 
-      (also **GO** in the near future🤫)
+      (also working on frameworks like **Next.js** in the near future🤫)
 - 📚 Graduate Le Wagon Tokyo Web Development (Batch 718)
-- 🕴️Currently a IT PMO but looking to move into frontend web development
+- 🕴️Currently a Technical Business Analyst but looking to move into frontend web development
 -  🥅 Goal: To build a career in tech and learn more languages and frameworks
 
 ### Lets Connect! 
