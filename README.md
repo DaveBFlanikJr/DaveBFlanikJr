@@ -1,7 +1,7 @@
 ### Hey, I'm David - I'm a fullstack web developer based in Tokyo, Japan
 
 ## About me:
-- 💻 Working with **Ruby on Rails** and **Python(flask)** on the back end, **HTML**, **CSS**, and **JS** on the front end 
+- 💻 Working with **Ruby on Rails** and **Node** on the back end, **HTML**, **CSS**, and **JS** on the front end 
       (also working on frameworks like **Next.js** in the near future🤫)
 - 📚 Graduate Le Wagon Tokyo Web Development (Batch 718)
 - 🕴️Currently a Technical Business Analyst but looking to move into frontend web development
