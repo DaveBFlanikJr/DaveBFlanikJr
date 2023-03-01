@@ -5,7 +5,7 @@
       (also working on frameworks like **Next.js** in the near future🤫)
 - 📚 Graduate Le Wagon Tokyo Web Development (Batch 718)
 - 🕴️Currently a Technical Business Analyst but looking to move into frontend web development
--  🥅 Goal: To build a career in tech and learn more languages and frameworks
+-  🥅 Goal: To take over the world
 
 ### Lets Connect! 
 
