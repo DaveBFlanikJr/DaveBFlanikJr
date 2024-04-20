@@ -5,6 +5,7 @@
       (also working on frameworks like **Next.js** in the near future🤫)
 - 📚 Graduate Le Wagon Tokyo Web Development (Batch 718)
 - 🕴️Currently a Technical Business Analyst but looking to move into frontend web development
+- Computer Science and Engineering Student at Arizona State
 -  🥅 Goal: To take over the world
 
 ### Lets Connect! 
